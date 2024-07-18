@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from "react";
-import styles from "./songsHero.module.css";
+import styles from "./SongsHero.module.css";
 import backButoon from "../../assets/back.svg";
 import { useNavigate } from "react-router-dom";
 import { useSnackbar } from "notistack";

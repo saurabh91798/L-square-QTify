@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Stack, Pagination } from "@mui/material";
-import "./pagination.css";
+import "./Pagination.css";
 export default function PaginationButtons({
   songsPerPage,
   totalSongs,

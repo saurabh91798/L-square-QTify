@@ -1,6 +1,6 @@
 import * as React from "react";
-import styles from "../Section/section.module.css";
-import "./material.css";
+import styles from "../Section/Section.module.css";
+import "./Material.css";
 import { useState } from "react";
 import Card from "../Card/Card";
 import { Box, CircularProgress, Tabs, Tab } from "@mui/material";
