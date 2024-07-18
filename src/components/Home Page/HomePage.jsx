@@ -1,5 +1,5 @@
 import React from "react";
-import sectionStyles from "../Section/section.module.css";
+import sectionStyles from "../Section/Section.module.css";
 import Hero from "../Hero/Hero";
 import Navbar from "..//Navbar/Navbar";
 import Section from "../Section/Section";
