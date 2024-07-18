@@ -1,4 +1,4 @@
-import styles from "./faqs.module.css";
+import styles from "./Faqs.module.css";
 import * as React from "react";
 import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";

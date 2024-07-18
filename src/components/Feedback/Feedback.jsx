@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "./feedback.module.css";
+import styles from "./Feedback.module.css";
 import { useSnackbar } from "notistack";
 function Feedback({ onClose }) {
   let { enqueueSnackbar } = useSnackbar();
